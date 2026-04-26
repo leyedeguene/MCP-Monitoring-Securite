@@ -1,0 +1,26 @@
+# Variables d'environnement
+.env
+
+# Base de données
+database/monitoring.db
+
+# Clés GPG
+database/.gnupg/
+
+# Sauvegardes
+database/backup/
+
+# Dépendances Node.js
+dashboard/app/node_modules/
+
+# Dépendances Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Fichiers de build React
+dashboard/app/dist/
+
+# Logs
+*.log

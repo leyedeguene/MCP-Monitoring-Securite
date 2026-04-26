@@ -1,0 +1,5 @@
+fastmcp
+psutil
+python-gnupg
+fastapi
+uvicorn
