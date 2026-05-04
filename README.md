@@ -85,3 +85,4 @@ Un système de surveillance intelligent combinant :
 | **SQLite**           | Stockage des logs, métriques et états système                   |
 | **React + Recharts** | Dashboard de visualisation pour l’administrateur                |
 | **Docker Compose**   | Conteneurisation, isolation et portabilité                      |
+<img width="686" height="651" alt="Capture d&#39;écran 2026-04-24 004642" src="https://github.com/user-attachments/assets/4d851445-8913-4f95-818d-cbdf8501ba82" />
